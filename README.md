@@ -1,4 +1,6 @@
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaizume)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imaizume&show_icons=true&theme=react&count_private=true)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=imaizume&theme=react&layout=compact)
 
 ## Contact
 
